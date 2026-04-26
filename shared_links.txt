@@ -3,3 +3,5 @@ https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json,https://dl.espressif.com/dl/package_esp32_index.json
+
+https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.8_Windows_64bit.exe
